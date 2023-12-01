@@ -1,0 +1,8 @@
+matplotlib
+numpy
+opencv_python
+Pillow
+prettytable
+pyparsing
+scikit_learn
+scipy
